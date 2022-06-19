@@ -45,11 +45,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
 
 
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
@@ -83,12 +83,10 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thiagorangel15&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorangel15&hide_border=true&layout=compact" align="left" />  
-
 <br/>  
 
 
-  
+
   
 
 <br/>  
@@ -108,4 +106,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
