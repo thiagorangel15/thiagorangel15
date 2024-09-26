@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [JobAnalyzer project](https://github.com/thiagorangel15/JobAnalyzer)
 
-- 💬 Ask me about **PowerBI, SQL**
+- 💬 Ask me about **PowerBI, SQL, Python**
 
 - 📫 How to reach me **thiagorangeldasilva43@gmail.com**
 
